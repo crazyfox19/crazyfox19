@@ -2,17 +2,17 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.svg">
-    <img alt="Joshua Hassan" src="art/header-light.svg" width="100%">
+    <img alt="Mmaokike" src="art/header-light.svg" width="100%">
   </picture>
 </div>
 
 <br/>
 
-<h1 align="center">Hey there, I'm Joshua 👋</h1>
+<h1 align="center">Hey there, I'm Mmaokike 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=FF69B4&center=true&vCenter=true&repeat=true&width=640&height=50&lines=Full+Stack+%26+Blockchain+Engineer;Crypto+payments+at+checkout+%40+Stablezact;Python+%C2%B7+TypeScript+%C2%B7+Solidity;Mechanical+engineer+turned+software+builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=FF69B4&center=true&vCenter=true&repeat=true&width=640&height=50&lines=Full+Stack+Developer;AI+Integration+%26+Automation;API+Development" alt="Typing SVG" />
   </a>
 </p>
 
@@ -39,21 +39,19 @@
 
 <br/>
 
-I'm a **Full Stack & Blockchain Engineer** who loves turning ideas into fast, reliable products, from clean REST APIs to smooth frontends and smart contracts.
+I'm a results-oriented **Full Stack Developer** with hands-on experience in API integration, backend development, database management and AI-enabled digital solutions. I build API-connected applications, backend communication and interactive bot functionality.
 
-- 💳 Currently building **crypto wallet payments at checkout** at **Stablezact**
-- 🧱 Backend with **Python/Django**, **Node.js**, **Express** & **NestJS**
-- 🎨 Frontend with **React** & **Next.js** in **TypeScript**
-- ⛓️ Writing **Solidity** and shipping **Web3** integrations
-- 🗄️ Data with **PostgreSQL** & **Redis**
-- 🎓 B.Eng. **Mechanical Engineering**, University of Benin
-- ⚡ Fun fact: when I'm not coding, I'm writing fiction
+- 🎓 Pursuing a **Master's in AI for Business** at **Rome Business School**
+- 🧱 Backend with **Node.js**, **Express.js** & **REST APIs**
+- 🎨 Frontend with **React**, **Next.js**, **TypeScript** & **Tailwind CSS**
+- 🤖 **OpenAI**, LLMs & conversational bot development
+- 🗄️ Data with **PostgreSQL**
 
 <br/>
 
 </td>
 <td width="35%" align="center" valign="middle">
-      <img src="art/about.svg" alt="const joshua = { ... }" width="100%"/>
+      <img src="art/about.svg" alt="About Mmaokike" width="100%"/>
     </td>
   </tr>
 </table>
@@ -65,11 +63,11 @@ I'm a **Full Stack & Blockchain Engineer** who loves turning ideas into fast, re
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,js,ts,react,nextjs,nodejs,express&perline=8" alt="Languages & Frameworks"/>
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,express&perline=8" alt="Languages & Frameworks"/>
   </a>
   <br/><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,solidity,postgres,redis,git,github,vscode,postman&perline=8" alt="Backend, Web3 & Tools"/>
+    <img src="https://skillicons.dev/icons?i=postgres,docker,github,vscode,postman&perline=8" alt="Databases & Tools"/>
   </a>
 </p>
 
@@ -82,7 +80,7 @@ I'm a **Full Stack & Blockchain Engineer** who loves turning ideas into fast, re
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crazyfox19&bg_color=1A0B1E&color=F8BBD0&title_color=FF69B4&line=FF69B4&point=EF93C4&area=true&area_color=EF93C4&hide_border=true&radius=14&custom_title=Joshua's%20Contribution%20Graph" alt="Activity Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crazyfox19&bg_color=1A0B1E&color=F8BBD0&title_color=FF69B4&line=FF69B4&point=EF93C4&area=true&area_color=EF93C4&hide_border=true&radius=14&custom_title=Contribution%20Graph" alt="Activity Graph" width="95%"/>
 </p>
 
 <br/>
@@ -103,7 +101,7 @@ I'm a **Full Stack & Blockchain Engineer** who loves turning ideas into fast, re
 <h2 align="center">💌 Let's Connect</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/joshua-hassan-01b443179">
+  <a href="https://www.linkedin.com/in/asonye-mmaokike-46b5aa24b/">
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
@@ -119,7 +117,6 @@ I'm a **Full Stack & Blockchain Engineer** who loves turning ideas into fast, re
   <a href="https://instagram.com/[YOUR_INSTAGRAM]"><img src="https://img.shields.io/badge/Instagram-EF93C4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://tiktok.com/@[YOUR_TIKTOK]"><img src="https://img.shields.io/badge/TikTok-FF69B4?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
   <a href="https://youtube.com/@[YOUR_YOUTUBE]"><img src="https://img.shields.io/badge/YouTube-EF93C4?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   -->
 </p>
 
