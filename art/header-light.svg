@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fbe9fb"/><stop offset=".6" stop-color="#efd2f7"/><stop offset="1" stop-color="#fcc6e3"/></linearGradient>
+<linearGradient id="sun" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffe53b"/><stop offset="1" stop-color="#ff8c3a"/></linearGradient>
+<linearGradient id="tg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fffbe6"/><stop offset=".55" stop-color="#7df3ff"/><stop offset="1" stop-color="#f8bbd0"/></linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ece0fb" stop-opacity="0"/><stop offset="1" stop-color="#ece0fb" stop-opacity=".85"/></linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#ff69b4" stop-opacity=".55"/><stop offset="1" stop-color="#ff69b4" stop-opacity="0"/></radialGradient>
+<clipPath id="half"><rect x="0" y="0" width="1280" height="250"/></clipPath>
+<clipPath id="sunc"><circle cx="640" cy="250" r="166"/></clipPath>
+<filter id="ts" x="-20%" y="-50%" width="140%" height="200%"><feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#ff69b4" flood-opacity=".7"/></filter>
+</defs>
+<rect width="1280" height="250" fill="url(#sky)"/>
+<circle cx="640" cy="250" r="235" fill="url(#glow)" clip-path="url(#half)"/>
+<g clip-path="url(#half)"><circle cx="640" cy="250" r="165" fill="url(#sun)"/>
+<rect x="0" y="168" width="1280" height="5" fill="#fcc6e3" clip-path="url(#sunc)"/>
+<rect x="0" y="192" width="1280" height="7" fill="#fcc6e3" clip-path="url(#sunc)"/>
+<rect x="0" y="216" width="1280" height="9" fill="#fcc6e3" clip-path="url(#sunc)"/>
+<rect x="0" y="238" width="1280" height="10" fill="#fcc6e3" clip-path="url(#sunc)"/>
+</g>
+<rect y="250" width="1280" height="230" fill="#ece0fb"/>
+<g stroke="#b04de0" stroke-width="1" opacity="0.35"><line x1="640" y1="250" x2="-1700" y2="480"/><line x1="640" y1="250" x2="-1610" y2="480"/><line x1="640" y1="250" x2="-1520" y2="480"/><line x1="640" y1="250" x2="-1430" y2="480"/><line x1="640" y1="250" x2="-1340" y2="480"/><line x1="640" y1="250" x2="-1250" y2="480"/><line x1="640" y1="250" x2="-1160" y2="480"/><line x1="640" y1="250" x2="-1070" y2="480"/><line x1="640" y1="250" x2="-980" y2="480"/><line x1="640" y1="250" x2="-890" y2="480"/><line x1="640" y1="250" x2="-800" y2="480"/><line x1="640" y1="250" x2="-710" y2="480"/><line x1="640" y1="250" x2="-620" y2="480"/><line x1="640" y1="250" x2="-530" y2="480"/><line x1="640" y1="250" x2="-440" y2="480"/><line x1="640" y1="250" x2="-350" y2="480"/><line x1="640" y1="250" x2="-260" y2="480"/><line x1="640" y1="250" x2="-170" y2="480"/><line x1="640" y1="250" x2="-80" y2="480"/><line x1="640" y1="250" x2="10" y2="480"/><line x1="640" y1="250" x2="100" y2="480"/><line x1="640" y1="250" x2="190" y2="480"/><line x1="640" y1="250" x2="280" y2="480"/><line x1="640" y1="250" x2="370" y2="480"/><line x1="640" y1="250" x2="460" y2="480"/><line x1="640" y1="250" x2="550" y2="480"/><line x1="640" y1="250" x2="640" y2="480"/><line x1="640" y1="250" x2="730" y2="480"/><line x1="640" y1="250" x2="820" y2="480"/><line x1="640" y1="250" x2="910" y2="480"/><line x1="640" y1="250" x2="1000" y2="480"/><line x1="640" y1="250" x2="1090" y2="480"/><line x1="640" y1="250" x2="1180" y2="480"/><line x1="640" y1="250" x2="1270" y2="480"/><line x1="640" y1="250" x2="1360" y2="480"/><line x1="640" y1="250" x2="1450" y2="480"/><line x1="640" y1="250" x2="1540" y2="480"/><line x1="640" y1="250" x2="1630" y2="480"/><line x1="640" y1="250" x2="1720" y2="480"/><line x1="640" y1="250" x2="1810" y2="480"/><line x1="640" y1="250" x2="1900" y2="480"/><line x1="640" y1="250" x2="1990" y2="480"/><line x1="640" y1="250" x2="2080" y2="480"/><line x1="640" y1="250" x2="2170" y2="480"/><line x1="640" y1="250" x2="2260" y2="480"/><line x1="640" y1="250" x2="2350" y2="480"/><line x1="640" y1="250" x2="2440" y2="480"/><line x1="640" y1="250" x2="2530" y2="480"/><line x1="640" y1="250" x2="2620" y2="480"/><line x1="640" y1="250" x2="2710" y2="480"/><line x1="640" y1="250" x2="2800" y2="480"/><line x1="640" y1="250" x2="2890" y2="480"/><line x1="640" y1="250" x2="2980" y2="480"/><line x1="0" y1="250.0" x2="1280" y2="250.0"/><line x1="0" y1="253.0" x2="1280" y2="253.0"/><line x1="0" y1="257.1" x2="1280" y2="257.1"/><line x1="0" y1="262.5" x2="1280" y2="262.5"/><line x1="0" y1="269.9" x2="1280" y2="269.9"/><line x1="0" y1="279.9" x2="1280" y2="279.9"/><line x1="0" y1="293.3" x2="1280" y2="293.3"/><line x1="0" y1="311.5" x2="1280" y2="311.5"/><line x1="0" y1="336.0" x2="1280" y2="336.0"/><line x1="0" y1="369.1" x2="1280" y2="369.1"/><line x1="0" y1="413.8" x2="1280" y2="413.8"/><line x1="0" y1="474.1" x2="1280" y2="474.1"/></g>
+<rect y="250" width="1280" height="230" fill="url(#fade)"/>
+<rect y="249" width="1280" height="3" fill="#a43be0"/>
+<text x="640" y="350" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="76" font-weight="800" fill="#2b0b45" filter="url(#ts)" letter-spacing="1">Joshua Hassan</text>
+<text x="640" y="398" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="28" fill="#4a2a66">Full Stack &amp; Blockchain Engineer</text>
+<text x="640" y="440" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="24" font-weight="700" fill="#8a1fd1">@crazyfox19</text>
+</svg>
